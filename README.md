@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Tsukino
-- 👀 I’m interested in Web Development & Networking.
-- 🌱 I’m currently learning Java, Javascript, Python.
-- 💞️ I’m looking to collaborate on -
-- 📫 How to reach me 
-- 
+- 👀 I’m interested in Web Development & Reverse Engineering.
+- 🌱 I’m currently learning Javascript, C, Python.
+- 📫 How to reach me: tsukino.moderation@gmail.com
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TsukinoDesu)
 
 <!---
